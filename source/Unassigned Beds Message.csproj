@@ -50,6 +50,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Alert_UnassignedBeds.cs" />
+    <Compile Include="Mod.cs" />
+    <Compile Include="Patches\Alert_NeedColonistBeds.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
