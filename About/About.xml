@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <packageId>sk.unassignedbedsalert</packageId>
+  <name>Unassigned Beds Alert</name>
+  <author>Sk</author>
+  <url>https://github.com/AhHanie/Unassigned-Beds-Alert</url>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Displays an alert for colonists with unassigned beds.</description>
+  <modVersion>1.0.0</modVersion>
+</ModMetaData>

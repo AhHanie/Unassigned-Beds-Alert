@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <UnassignedBeds>Colonists without beds</UnassignedBeds>
+  <UnassignedBedsDesc>These colonists do not have beds assigned to them:\n\n{0}</UnassignedBedsDesc>
+</LanguageData>
